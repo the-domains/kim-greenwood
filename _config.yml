@@ -1,0 +1,28 @@
+name: Kim Greenwood
+favicon: null
+layout_spectrum: 0.6518943416886032
+typography_spectrum: 0.605846838792786
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3836972233839333
+  lightness: 0.9576659153681248
+  saturation: 0.6587379625998437
+  rhythmicContrast: 0.2948620154056698
+purpose: []
