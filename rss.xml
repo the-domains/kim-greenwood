@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Kim Greenwood]]></title>
         <description><![CDATA[Kim Greenwood]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kim-greenwood/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 03:37:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 14 Jun 2016 03:42:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kim-greenwood/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/87f6a9e4-8633-4b4d-9f6f-dfc77bfb515f.jpg">]]></description>
+            <link>https://thegrid.ai/kim-greenwood/5fd253f4-8bec-43e3-b21e-d88430623480/index.html</link>
+            <guid isPermaLink="false">5fd253f4-8bec-43e3-b21e-d88430623480</guid>
+            <pubDate>Tue, 14 Jun 2016 03:41:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>"The development of the voice never ceases; it is truly a metamorphosis throughout a career."</p>]]></description>
-            <link>undefinedthe-development-of-the-voice-never-ceases-it-is-truly-a-me/index.html</link>
+            <link>https://thegrid.ai/kim-greenwood/the-development-of-the-voice-never-ceases-it-is-truly-a-me/index.html</link>
             <guid isPermaLink="false">0efbd6e4-1058-4b44-a056-da8b27e93e0c</guid>
             <pubDate>Tue, 14 Jun 2016 03:37:43 GMT</pubDate>
         </item>
